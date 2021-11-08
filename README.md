@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams](https://teams.microsoft.com/l/channel/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/General?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [WEB503teams](https://teams.microsoft.com/l/team/19%3aiINrWvGZRfPTJYiWcvt-Z2LD1Ux9D2HxVD-bkgbDt5E1%40thread.tacv2/conversations?groupId=258b4662-b775-4bcd-961a-e62fc74526ce&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -50,16 +50,14 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Nine Description
 
-:arrow_right: Compare between Arrays in C# and JavaScript, provide the comparison in Markdown table with examples of Arrays in C# & JavaScript. (Use your journal MD file)
+:arrow_right: Explain the importance of application performance optimization
 
-:arrow_right: Explain the advantages and disadvantages of Dictionaries in C#. (Use your journal MD file)
-
-:arrow_right: Explain Dictionaries in JavaScript, research about this topic, and provide your references (Use your journal MD file)
+:arrow_right: How to Improve your Mobile Web App’s Performance?
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
-|---|---|---|
+|[Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|
+|---|---|
 
 
 
