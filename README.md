@@ -54,6 +54,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: How to Improve your Mobile Web App’s Performance?
 
+:arrow_right: Please make sure you reference your answers.
+
 ## :books: Resources 
 
 |[Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|
